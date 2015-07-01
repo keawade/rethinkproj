@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/keawade/rethinkproj#readme",
   "dependencies": {
+    "express": "^4.13.0",
     "rethinkdb": "^2.0.2"
   },
   "devDependencies": {},
